@@ -67,12 +67,7 @@ db.sinh_vien.aggregate([
 * **Linh hoạt:** Dễ dàng bổ sung các trường thông tin mới (như chứng chỉ, kỹ năng) cho từng sinh viên mà không cần sửa cấu trúc toàn bộ bảng.
 * **Trực quan:** Xây dựng thành công Dashboard quản trị trên MongoDB Compass giúp theo dõi sĩ số và phân bố địa lý sinh viên.
 
----
-
+```
 **Người thực hiện:** Trần Kim Tài
 
 **Giảng viên hướng dẫn:** Phan Thị Phương Nam
-
-1. Bạn hãy lưu nội dung này vào một file có tên là `README.md` ở thư mục gốc của dự án trên máy tính.
-2. Khi upload lên GitHub, giao diện GitHub sẽ tự động nhận diện file này và trình bày đẹp mắt như mẫu trên.
-3. Nếu bạn có ảnh chụp Dashboard, hãy chèn thêm dòng này vào mục **Đánh giá kết quả**: `![Dashboard](link-den-anh-cua-ban.png)` để minh họa trực quan hơn nhé!
