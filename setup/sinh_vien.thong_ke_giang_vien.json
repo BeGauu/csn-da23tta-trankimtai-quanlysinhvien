@@ -1,0 +1,45 @@
+[{
+  "_id": "Phạm Thị Trúc Mai",
+  "tong_sv_nam": 29,
+  "tong_sv_nu": 7,
+  "tong_sv_quan_ly": 36,
+  "ds_lop_phu_trach": [
+    "DA23TTC"
+  ]
+},
+{
+  "_id": "Phan Thị Phương Nam",
+  "tong_sv_nam": 35,
+  "tong_sv_nu": 8,
+  "tong_sv_quan_ly": 43,
+  "ds_lop_phu_trach": [
+    "DA23TTA"
+  ]
+},
+{
+  "_id": "Trần Văn Điền",
+  "tong_sv_nam": 23,
+  "tong_sv_nu": 6,
+  "tong_sv_quan_ly": 29,
+  "ds_lop_phu_trach": [
+    "DA23XD"
+  ]
+},
+{
+  "_id": "Nguyễn Vũ Lực",
+  "tong_sv_nam": 33,
+  "tong_sv_nu": 0,
+  "tong_sv_quan_ly": 33,
+  "ds_lop_phu_trach": [
+    "DA23CK"
+  ]
+},
+{
+  "_id": "Nguyễn Thanh Tâm",
+  "tong_sv_nam": 14,
+  "tong_sv_nu": 2,
+  "tong_sv_quan_ly": 16,
+  "ds_lop_phu_trach": [
+    "DA23XDGT"
+  ]
+}]
